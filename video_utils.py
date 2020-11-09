@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import moviepy.editor
 
 def save_video(filename, frames, frame_rate=24.0):
     """rank 4のNumPy配列をmp4形式の動画に保存します
@@ -28,12 +27,3 @@ def save_video(filename, frames, frame_rate=24.0):
             writer.write(x)
     finally:
         writer.release()
-
-def display_video(filename, **kwargs):
-    """動画をColabで表示します
-
-    Args:
-        filename (文字列): 再生する動画のファイル名
-    """
-    clip = moviepy.editor.VideoFileClip(filename)
-    clip.ipython_display(**kwargs)
