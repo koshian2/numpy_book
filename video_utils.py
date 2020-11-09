@@ -35,5 +35,5 @@ def display_video(filename, **kwargs):
     Args:
         filename (文字列): 再生する動画のファイル名
     """
-    clip = moviepy.editor.VideoFileClip(filename))
+    clip = moviepy.editor.VideoFileClip(filename)
     clip.ipython_display(**kwargs)
