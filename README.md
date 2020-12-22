@@ -9,7 +9,7 @@
 | [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 物理版＋電子版 | A5版オールカラー               | A4版モノクロ | 2000 |   送料込み | 期間限定発売 |
 | [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 電子版         | A5版オールカラー               | -            | 1800 |          0 |       -      |
 | Amazon                       | ペーパーバック | -                              | A4版モノクロ | 3300 | Amazon規定 |       -      |
-| [Amazon]((https://www.amazon.co.jp/dp/B08QH49TD1))                       | Kindle版       | A4版オールカラー               | -            | 2850 |          0 |       -      |
+| [Amazon](https://www.amazon.co.jp/dp/B08QH49TD1)                       | Kindle版       | A4版オールカラー               | -            | 2850 |          0 |       -      |
 
 
 ## Colabリンク
