@@ -8,7 +8,7 @@
 | [Booth](https://koshian2.booth.pm/items/2462894)                        | 電子版         | A4版・A5版セットでオールカラー | -            | 1800 |          0 | 【おすすめ】 |
 | [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 物理版＋電子版 | A5版オールカラー               | A4版モノクロ | 2000 |   送料込み | 期間限定発売 |
 | [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 電子版         | A5版オールカラー               | -            | 1800 |          0 |       -      |
-| とらのあな                | 物理版＋電子版 | A4版オールカラー               | A4版モノクロ | 2365 | とら規定 | 対面電書によるDLコード付 |
+| [とらのあな](https://ecs.toranoana.jp/tora/ec/item/040030879171/)                | 物理版＋電子版 | A4版オールカラー               | A4版モノクロ | 2365 | とら規定 | 対面電書によるDLコード付 |
 | [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=778538)                | 物理版＋電子版 | A4版オールカラー               | A4版モノクロ | 2365 | メロン規定 | 対面電書によるDLコード付 |
 | Amazon                       | 紙の本 | -                              | A4版モノクロ | 3300 | Amazon規定 |       -      |
 | [Amazon](https://www.amazon.co.jp/dp/B08QH49TD1)                       | Kindle版       | A4版オールカラー               | -            | 2850 |          0 |       -      |
