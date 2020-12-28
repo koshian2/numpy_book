@@ -7,7 +7,7 @@
 | [Booth](https://koshian2.booth.pm/items/2462894)                        | 物理版＋電子版 | A4版・A5版セットでオールカラー | A4版モノクロ | 1800 |        400 | 92% | 【おすすめ】 |
 | [Booth](https://koshian2.booth.pm/items/2462894)                        | 電子版         | A4版・A5版セットでオールカラー | -            | 1800 |          0 | 93% | 【おすすめ】 |
 | [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 物理版＋電子版 | A5版オールカラー               | A4版モノクロ | 2000 |   送料込み | 76% | 期間限定発売 |
-| [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 電子版         | A5版オールカラー               | -            | 1800 |          0 |  　80% |       -      |
+| [技術書典オンラインマーケット](https://techbookfest.org/organization/254330001) | 電子版         | A5版オールカラー               | -            | 1800 |          0 |  　80% |       20%は運営に還元されます。お布施したい方おすすめ（物理版と同様）      |
 | [とらのあな](https://ecs.toranoana.jp/tora/ec/item/040030879171/)                | 物理版＋電子版 | A4版オールカラー               | A4版モノクロ | 2365 | とら規定 | 70% | 対面電書によるDLコード付 |
 | [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=778538)                | 物理版＋電子版 | A4版オールカラー               | A4版モノクロ | 2365 | メロン規定 | 70% | 対面電書によるDLコード付 |
 | [Amazon](https://www.amazon.co.jp/gp/product/4910088261)                       | 紙の本 | -                              | A4版モノクロ | 3300 | Amazon規定 | 30% |       -      |
