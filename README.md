@@ -33,6 +33,9 @@
 * 4章模範解答 [https://colab.research.google.com/drive/1Zp2oXmXgufHHPpJHw6hVxep6RVYtfGyy?usp=sharing](https://colab.research.google.com/drive/1Zp2oXmXgufHHPpJHw6hVxep6RVYtfGyy?usp=sharing)
 * 5章模範解答 [https://colab.research.google.com/drive/1deMR9uxHJB2-R5ATXUm2JhHlU2oSg49s?usp=sharing](https://colab.research.google.com/drive/1deMR9uxHJB2-R5ATXUm2JhHlU2oSg49s?usp=sharing)
 
+## 正誤表
+[https://github.com/koshian2/numpy_book/blob/master/紙の本正誤表.md](https://github.com/koshian2/numpy_book/blob/master/紙の本正誤表.md)
+
 ### 利用規約
 * 著作権は著者（こしあん）にある
 * していいこと
